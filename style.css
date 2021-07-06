@@ -13,9 +13,13 @@ body{
     color: orangered
 }
 .image-width{
-    width: 20%;
-    padding-right: 40px;
-    padding-left: 50px;
+    border-radius: 30px;
+    padding: 30px;
+    width: 50%;
+    border: 10px solid white;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+  
 }
 .half-width{
     width: 50%;
