@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.display-flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+.center{
+    text-align: center;
+}
+.food-network{
+    color: orangered
+}
+.half-width{
+    width: 33%;
+}
