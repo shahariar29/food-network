@@ -14,7 +14,7 @@ body{
 }
 .image-width{
     border-radius: 30px;
-    padding: 30px;
+    padding: 45px;
     width: 50%;
     border: 10px solid white;
     background-image: url(images/shapes/Frame\ 58.jpg);
@@ -35,7 +35,7 @@ body{
     text-decoration: none;
     font-weight: 700
 }
-#skib{
+#skip{
     color: white;
     font-weight: 700;
 }
@@ -52,4 +52,26 @@ body{
 }
 img{
     border-radius: 10px;
+}
+.contact{
+    text-align: center;
+    color: orangered;
+}
+#width{
+    padding-left: 350px;
+}
+#under{
+padding-left: 180px;
+}
+#under-box{
+    border:5px solid whitesmoke;
+    border-radius: 15px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+footer{
+    border: solid black;
+    margin-bottom: 20px;
+    background-image: url(images/download.jpg);
+    color:darkgoldenrod
 }
